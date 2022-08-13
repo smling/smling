@@ -7,6 +7,8 @@ This is Ling and I am a System Analyst. Full stack developer in .net / Java / An
 Major domain in healthcare industry.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smling&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=smling)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![CSharp](https://img.shields.io/badge/CSharp-Expert-green?style=flat&logo=csharp)
 ![.net](https://img.shields.io/badge/.net-Expert-green?style=flat&logo=dotnet)
